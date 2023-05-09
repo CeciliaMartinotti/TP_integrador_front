@@ -1,0 +1,14 @@
+
+.carousel-caption
+{
+    top: 50%;
+    translate: middle;
+    left: 50%;
+    color: white
+}
+
+.link-secondary
+{
+    border-bottom: dotted;
+}
+
